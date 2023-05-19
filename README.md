@@ -1,2 +1,2 @@
 # ccscenery.github.com
-test github pages
+my pages
